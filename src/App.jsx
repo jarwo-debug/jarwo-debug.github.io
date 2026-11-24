@@ -1,5 +1,5 @@
 import Experience from "./layout/Experience";
-import { NavBar } from "./layout/Navbar";
+import { NavBar } from "./layout/NavBar";
 import Profile from "./layout/Profile";
 import ScrollNavbar from "./layout/ScrollNavbar";
 
